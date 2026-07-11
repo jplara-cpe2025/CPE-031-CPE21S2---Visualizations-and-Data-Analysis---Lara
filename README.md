@@ -13,6 +13,7 @@ This repository contains the hands-on activities and projects published in the C
     />
   </a>
 </p>
+![Repo Stats](https://vercel.app)
 
 ## ℹ️ About Me
 * Name: Juan Paulo Lara
