@@ -14,6 +14,6 @@ This repository contains the hands-on activities and projects published in the C
 * Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 
 ## 🔗 Links
-[![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-009A-CPE12S1-2526)](https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
