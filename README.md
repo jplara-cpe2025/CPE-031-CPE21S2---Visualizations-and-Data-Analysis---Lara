@@ -13,8 +13,6 @@ This repository contains the hands-on activities and projects published in the C
     />
   </a>
 </p>
-![GitHub Commits](https://shields.io)
-
 
 ## ℹ️ About Me
 * Name: Juan Paulo Lara
