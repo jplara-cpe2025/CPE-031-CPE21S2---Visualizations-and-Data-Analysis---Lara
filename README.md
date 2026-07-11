@@ -41,8 +41,8 @@ This repository contains the hands-on activities and projects published in the C
 * Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 
 ## ⚙️ Tools
+* <a href="https://www.spyder-ide.org/"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/72cf5b6b-c46a-43d6-bffb-cbedd2490951" /> Spyder
 * <a href="https://code.visualstudio.com/"> <img width="20" height="20" alt="25044327" src="https://github.com/user-attachments/assets/a0f79e44-21ae-4aef-8be6-8a13c5452f8c" /> Visual Studio Code
-
 
 ## 🔗 Links
 [![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
