@@ -3,7 +3,7 @@
 
 ## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 # 🏆 Repository Statistics
 <p align="center">
