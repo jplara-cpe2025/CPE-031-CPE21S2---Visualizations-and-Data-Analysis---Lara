@@ -2,6 +2,7 @@
 
 ## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
+https://img.shields.io/badge/github-repo-blue?logo=github
 
 # 🏆 Repository Statistics
 <p align="center">
@@ -13,7 +14,6 @@ This repository contains the hands-on activities and projects published in the C
     />
   </a>
 </p>
-![GitHub Repo stars](https://shields.io)
 
 ## ℹ️ About Me
 * Name: Juan Paulo Lara
