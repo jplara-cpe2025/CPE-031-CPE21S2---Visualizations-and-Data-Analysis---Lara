@@ -1,4 +1,4 @@
-# CPE-031 | CPE21S2 (2025-2026) Visualizations and Data Analysis <img width="97" height="20" alt="github-repo-blue" src="https://github.com/user-attachments/assets/38a53104-adb6-4812-84e8-a670d4797a37" />
+# CPE-031 - CPE21S2 (2025-2026) | Visualizations and Data Analysis <img width="97" height="20" alt="github-repo-blue" src="https://github.com/user-attachments/assets/38a53104-adb6-4812-84e8-a670d4797a37" />
 
 <img width="1014" height="556" alt="image" src="https://github.com/user-attachments/assets/d4e4c8bd-8066-4b4c-8275-ed84a494714b" />
 
