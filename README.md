@@ -3,7 +3,19 @@
 
 ## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+
+<p align="center">
+  <a href="https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara?style=for-the-badge&logo=github&color=F9CC30" />
+  </a>
+  <a href="https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara?style=for-the-badge&logo=git&color=3399CC" />
+  </a>
+  <a href="https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/watchers">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara?style=for-the-badge&logo=eye&color=555555" />
+  </a>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/main?style=for-the-badge&logo=history&color=0077B6" />
+  </p>
 
 # 🏆 Repository Statistics
 <p align="center">
