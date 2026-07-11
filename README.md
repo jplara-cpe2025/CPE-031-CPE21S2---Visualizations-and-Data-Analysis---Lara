@@ -1,6 +1,6 @@
 # CPE-031 | CPE21S2 (2025-2026) Visualizations and Data Analysis
 
-##  Description
+## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
 
 ## ℹ️ About Me
