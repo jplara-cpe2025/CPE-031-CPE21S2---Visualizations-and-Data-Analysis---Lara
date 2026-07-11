@@ -40,6 +40,10 @@ This repository contains the hands-on activities and projects published in the C
 * C++ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
 * Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 
+## ⚙️ Tools
+* <img width="48" height="48" alt="25044327" src="https://github.com/user-attachments/assets/a0f79e44-21ae-4aef-8be6-8a13c5452f8c" /> Visual Studio Code
+
+
 ## 🔗 Links
 [![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
