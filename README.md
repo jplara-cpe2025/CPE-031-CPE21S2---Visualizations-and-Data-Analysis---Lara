@@ -43,6 +43,8 @@ This repository contains the hands-on activities and projects published in the C
 ## ⚙️ Tools
 * <a href="https://www.spyder-ide.org/"> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/72cf5b6b-c46a-43d6-bffb-cbedd2490951" /> Spyder
 * <a href="https://code.visualstudio.com/"> <img width="20" height="20" alt="25044327" src="https://github.com/user-attachments/assets/a0f79e44-21ae-4aef-8be6-8a13c5452f8c" /> Visual Studio Code
+* <a href="https://colab.research.google.com/"> <img width="20" height="20" alt="Google_Colaboratory_SVG_Logo svg" src="https://github.com/user-attachments/assets/38244d05-4b46-42a4-b8a6-6f82c261b7af" />
+Google Colaboratory
 
 ## 🔗 Links
 [![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
