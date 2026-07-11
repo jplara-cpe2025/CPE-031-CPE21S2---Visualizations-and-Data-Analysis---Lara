@@ -3,6 +3,18 @@
 ## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
 
+# 🏆 Repository Statistics
+<p align="center">
+  <br/>
+  <a href="https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara">
+    <img 
+      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
+      alt="Repo Activity Graph"
+    />
+  </a>
+</p>
+
+
 ## ℹ️ About Me
 * Name: Juan Paulo Lara
 * Program: BSCpE
@@ -12,8 +24,6 @@ This repository contains the hands-on activities and projects published in the C
 ## ⚙️ Programming Languages
 * C++ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
 * Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-
-![Repo Stats](https://vercel.app)
 
 ## 🔗 Links
 [![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
