@@ -24,7 +24,7 @@ This repository contains the hands-on activities and projects published in the C
   <br/>
   <a href="https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara">
     <img 
-      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
+      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=github&hide_border=true&area=true" 
       alt="Repo Activity Graph"
     />
   </a>
