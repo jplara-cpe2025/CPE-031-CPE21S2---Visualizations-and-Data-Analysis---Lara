@@ -1,6 +1,6 @@
 # CPE-031 | CPE21S2 (2025-2026) Visualizations and Data Analysis <img width="97" height="20" alt="github-repo-blue" src="https://github.com/user-attachments/assets/38a53104-adb6-4812-84e8-a670d4797a37" />
 
-<img src="https://shields.io" alt="GitHub Stars"
+<img src="https://shields.io" alt="GitHub Stars">
 
 ## 💡 Description
 This repository contains the hands-on activities and projects published in the CPE-031 Visualizations and Data Analysis course.
