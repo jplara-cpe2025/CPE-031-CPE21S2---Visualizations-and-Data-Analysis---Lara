@@ -49,4 +49,4 @@ This repository contains the hands-on activities and projects published in the C
 ## 🔗 Links
 [![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara)](https://github.com/jplara-cpe2025/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Lara/contributors)
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
-* [Canvas](https://tip.instructure.com/courses/73254/users/91474)
+* [Canvas](https://tip.instructure.com/courses/80524/users/91474)
